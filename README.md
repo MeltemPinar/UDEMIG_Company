@@ -1,6 +1,3 @@
-
-# UDEMIG_Company
-
 <h1>UDEMIG_Company</h1>
 
 It is an example company project
