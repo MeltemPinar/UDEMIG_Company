@@ -1,7 +1,7 @@
 
 # UDEMIG_Company
 
-<h2>UDEMIG_Company</h2>
+<h1>UDEMIG_Company</h1>
 
 It is an example company project
 
