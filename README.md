@@ -7,4 +7,4 @@ It is an example company project
 
 <h2>Ekran görüntüsü:</h2>
 
-![](Screen UDEMIG_Company.gif)
+![](Screen_UDEMIG_Company.gif)
